@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Memory Struct/Scenes/Memory Struct.unity
+- path: Assets/Collision/Scene/Collision.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

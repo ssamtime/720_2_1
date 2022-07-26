@@ -356,7 +356,11 @@
 "Assets/Aditor Interface/Kawaii Slime/Scripts/AI/Face.cs"
 "Assets/Aditor Interface/Kawaii Slime/Scripts/GameManager.cs"
 "Assets/C# Script/Script/Control.cs"
+"Assets/Collision/Script/CharacterController.cs"
+"Assets/Collision/Script/Sensor.cs"
 "Assets/Memory Struct/Script/Memory.cs"
+"Assets/Polymophism/Script/Animal.cs"
+"Assets/Polymophism/Script/ParticleManager.cs"
 -langversion:9.0
 
 /deterministic

@@ -6,13 +6,13 @@ public class Monster : MonoBehaviour
 {
     protected int health; //public: 외부에서도 접근가능
     protected int attack; //private : 나자신만 접근가능
-    public string name; //protected: 나 자신과 상속하고 있는 클래스까지만 접근가능
+    public string name1; //protected: 나 자신과 상속하고 있는 클래스까지만 접근가능
 
     public void Information()
     {
         print(health);
         print(attack);
-        print(name);
+        print(name1);
     }
 }
 public class Memory : Monster
@@ -29,9 +29,9 @@ public class Memory : Monster
         attack = 20;
         Information();
         
-        int value = 250;
+        //int value = 250;
         value = 100;
-        int area = 500; //함수안에서 생성되며 함수를 벗어나면 소멸하는 지역변수.
+        //int area = 500; //함수안에서 생성되며 함수를 벗어나면 소멸하는 지역변수.
     }
     private void Update()
     {

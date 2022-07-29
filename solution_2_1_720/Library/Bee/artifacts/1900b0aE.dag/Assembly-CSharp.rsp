@@ -355,12 +355,19 @@
 "Assets/Aditor Interface/Kawaii Slime/Scripts/AI/EnemyAi.cs"
 "Assets/Aditor Interface/Kawaii Slime/Scripts/AI/Face.cs"
 "Assets/Aditor Interface/Kawaii Slime/Scripts/GameManager.cs"
+"Assets/Animation Clip/Script/FileLoad.cs"
+"Assets/Animation Clip/Script/PopUp.cs"
 "Assets/C# Script/Script/Control.cs"
 "Assets/Collision/Script/CharacterController.cs"
 "Assets/Collision/Script/Sensor.cs"
 "Assets/Memory Struct/Script/Memory.cs"
 "Assets/Polymophism/Script/Animal.cs"
 "Assets/Polymophism/Script/ParticleManager.cs"
+"Assets/Rotation/Script/Bicycle.cs"
+"Assets/Rotation/Script/Observe.cs"
+"Assets/Rotation/Script/Revolution.cs"
+"Assets/Time Delay/Script/Switching.cs"
+"Assets/Time Delay/Script/Various.cs"
 -langversion:9.0
 
 /deterministic

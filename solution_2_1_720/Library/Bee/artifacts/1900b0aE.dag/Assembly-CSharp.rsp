@@ -357,6 +357,8 @@
 "Assets/Aditor Interface/Kawaii Slime/Scripts/GameManager.cs"
 "Assets/Animation Clip/Script/FileLoad.cs"
 "Assets/Animation Clip/Script/PopUp.cs"
+"Assets/Animation Retargeting/Script/AnimationSpeed.cs"
+"Assets/Animation Retargeting/Script/DataSystem.cs"
 "Assets/C# Script/Script/Control.cs"
 "Assets/Collision/Script/CharacterController.cs"
 "Assets/Collision/Script/Sensor.cs"
